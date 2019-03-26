@@ -8,7 +8,7 @@
 
   <Exe comp="-1"/>
 
-  <LastIsn val="24"/>
+  <LastIsn val="26"/>
 
   <LastIsnFolder val="9"/>
 
@@ -2850,6 +2850,8 @@
 
   <ObjectType val="T"/>
 
+  <PositionIndex val="-1"/>
+
   <SchemaDoc val="D:\AACurr\Classes\ExamplesFinished\Resources\Addresses.xsd"/>
 
   <RootName val="AddressBook"/>
@@ -3075,6 +3077,8 @@
   <CheckExistence val="D"/>
 
   <ObjectType val="T"/>
+
+  <PositionIndex val="-1"/>
 
   <SchemaDoc val="D:\AACurr\Classes\ExamplesFinished\Resources\Addresses.xsd"/>
 
@@ -4433,6 +4437,68 @@
       </Segments>
     </Index>
   </Indexes>
+
+  <ForeignKeys/>
+
+  <WebS/>
+
+</DataObject> 
+<DataObject FolderIsn="9" PhysicalName="DS_Branch2" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="25" name="DS_Branch2">
+
+  <Encrypt val="N"/>
+
+  <Cache val="D"/>
+
+  <IdentifyRowModifications val="U"/>
+
+  <HasHint val="Y"/>
+
+  <Cursor val="D"/>
+
+  <CheckExistence val="D"/>
+
+  <ObjectType val="T"/>
+
+  <Position val="D"/>
+
+  <PositionIndex val="-1"/>
+
+  <MetaTreeRTIndex val="-1"/>
+
+  <Columns/>
+
+  <Indexes/>
+
+  <ForeignKeys/>
+
+  <WebS/>
+
+</DataObject> 
+<DataObject FolderIsn="9" PhysicalName="Ds1_Branch2" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="26" name="Ds1_Branch2">
+
+  <Encrypt val="N"/>
+
+  <Cache val="D"/>
+
+  <IdentifyRowModifications val="U"/>
+
+  <HasHint val="Y"/>
+
+  <Cursor val="D"/>
+
+  <CheckExistence val="D"/>
+
+  <ObjectType val="T"/>
+
+  <Position val="D"/>
+
+  <PositionIndex val="-1"/>
+
+  <MetaTreeRTIndex val="-1"/>
+
+  <Columns/>
+
+  <Indexes/>
 
   <ForeignKeys/>
 
